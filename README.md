@@ -1,5 +1,7 @@
 # Proyecto 1: Transformación digital de una conservera mediante IA
 
+Proyecto realizado por Dani Álvarez, Adryan y Alfonso Javier
+
 Propuesta de digitalización de extremo a extremo (planta + negocio) con IA para Conservas Marea Azul S.L., empresa ficticia del sector de la industria alimentaria (conservas de pescado).
 
 Contenido
